@@ -40,11 +40,11 @@ header h1 {
     flex: 1;
 }
 
-.details, .education {
+.details, .education, .experience, .social-media {
     margin-bottom: 20px;
 }
 
-.details h2, .education h2 {
+.details h2, .education h2, .experience h2, .social-media h2 {
     color: #4CAF50;
 }
 
